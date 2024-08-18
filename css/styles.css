@@ -361,7 +361,7 @@ img {
 }
 
 .portfolio-app:hover .text-cover {
-  box-shadow: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
   transform: translateY(0);
 }
 
